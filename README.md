@@ -45,11 +45,4 @@ Permissions include:
 
 ---
 
-## 🗂️ Data Storage
 
-The project stores data in text files using a separator:
-
-### Clients File
-📄 `Clients.txt`
-
-Format:
