@@ -1,4 +1,4 @@
-# 🏦 Bank Management System (C++)
+# 🏦 Bank Management System 
 
 A console-based **Bank Management System** developed in **C++**, using **file handling** and a **user authentication system with permissions (bitwise access control)**.
 
